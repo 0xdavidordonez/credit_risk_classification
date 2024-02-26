@@ -12,6 +12,7 @@ The analysis involved the following steps:
 * Data preprocessing, including separating data into labels and features and splitting the data into training and testing datasets.
 * Utilization of Logistic Regression model for credit risk prediction.
 * Addressing class imbalance using Random Oversampling method.
+* The methods used in this analysis are: train_test_split, logistic_regression_model, balanced_accuracy_score, classification_report_imbalanced, confusion_matrix, RandomOverSampler.
 
 ## Results
 
